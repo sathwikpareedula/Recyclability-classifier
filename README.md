@@ -36,7 +36,7 @@ A machine learning web application that classifies whether an object is recyclab
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/recyclability-classifier.git
+git clone https://github.com/sathwikpareedula/Recyclability-classifier.git
 ```
 
 2. Install dependencies:
