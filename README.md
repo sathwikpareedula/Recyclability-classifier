@@ -3,6 +3,7 @@
 A machine learning web application that classifies whether an object is recyclable or non-recyclable using a Convolutional Neural Network (CNN).
 
 ---
+<img width="1349" height="647" alt="image" src="https://github.com/user-attachments/assets/efb2c120-a899-4c8c-985d-05dc3c6c307f" />
 
 ## 🚀 Features
 
